@@ -10,5 +10,5 @@ The data given included information:
 * Year of release
 * Game genre
 * Platform release
-# Production Studio
+* Production Studio
 * To client; PPP given to client on analysis findings 
